@@ -1,0 +1,24 @@
+﻿feature_f,importance,original_name,label
+f22,5473,rev_owners_min_usd,rev_owners_min_usd (매출 최소치)
+f21,4530,price_usd,price_usd (가격(달러))
+f19,3008,owners_min,owners_min (추정 최소 보유자 수)
+f1,2749,appid,appid (게임 ID)
+f18,1860,ccu,ccu (동시접속자 수)
+f0,1620,"﻿""﻿""""recommendationid","﻿""﻿""""recommendationid"
+f4,1334,author_num_reviews,author_num_reviews (리뷰 작성 수)
+f5,1280,author_playtime_forever,author_playtime_forever (누적 플레이타임)
+f17,1260,discount_max,discount_max (최대 할인율)
+f9,1226,votes_up,votes_up (추천 투표 수)
+f7,1026,author_playtime_at_review,author_playtime_at_review (리뷰 시점 플레이타임)
+f2,1016,author_steamid,author_steamid
+f6,986,author_playtime_last_two_weeks,author_playtime_last_two_weeks (최근 2주 플레이타임)
+f10,973,votes_funny,votes_funny (재밌어요 투표 수)
+f3,848,author_num_games_owned,author_num_games_owned (보유 게임 수)
+f12,410,comment_count,comment_count
+f13,148,steam_purchase,steam_purchase
+f15,115,written_during_early_access,written_during_early_access
+f8,90,voted_up,voted_up
+f14,48,received_for_free,received_for_free
+f11,0,weighted_vote_score,weighted_vote_score
+f16,0,hidden_in_steam_china,hidden_in_steam_china
+f20,0,owners_max,owners_max (추정 최대 보유자 수)
